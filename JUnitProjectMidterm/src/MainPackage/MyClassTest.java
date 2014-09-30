@@ -7,7 +7,7 @@ public class MyClassTest extends TestCase {
 	
 	public void testSum() {
 		
-		assertEquals("10 + 10 must Equal 20",20,MyClass.AddTwoNumbers(10, 10));
+		assertEquals("10 + 10 must Equal to 20",20,MyClass.AddTwoNumbers(10, 10));
 		
 	}
 	
